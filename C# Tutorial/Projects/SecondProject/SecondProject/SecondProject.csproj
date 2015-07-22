@@ -3,14 +3,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
-<<<<<<< HEAD
-    <ProjectGuid>{64B77600-FD3F-4B9D-A37F-D112179FE5A6}</ProjectGuid>
-=======
-    <ProjectGuid>{05619225-5C05-48BF-B9AA-DD9A7E446AAE}</ProjectGuid>
->>>>>>> pr/4
+    <ProjectGuid>{B5A2DE55-F288-4927-8ABB-C6245453EAA7}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>FirstConsoleProject</RootNamespace>
-    <AssemblyName>FirstConsoleProject</AssemblyName>
+    <RootNamespace>SecondProject</RootNamespace>
+    <AssemblyName>SecondProject</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
