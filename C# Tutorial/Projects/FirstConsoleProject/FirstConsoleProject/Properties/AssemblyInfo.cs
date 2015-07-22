@@ -9,7 +9,11 @@ using System.Runtime.CompilerServices;
 [assembly: AssemblyConfiguration ("")]
 [assembly: AssemblyCompany ("")]
 [assembly: AssemblyProduct ("")]
+<<<<<<< HEAD
+[assembly: AssemblyCopyright ("devgithub")]
+=======
 [assembly: AssemblyCopyright ("panth")]
+>>>>>>> pr/4
 [assembly: AssemblyTrademark ("")]
 [assembly: AssemblyCulture ("")]
 
