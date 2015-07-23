@@ -3,10 +3,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
-    <ProjectGuid>{B7F0479D-6406-4CE0-A045-FDC411E7E91B}</ProjectGuid>
+    <ProjectGuid>{7606A812-4552-4E85-9617-7AAE150CD870}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>FirstConsoleProject</RootNamespace>
-    <AssemblyName>FirstConsoleProject</AssemblyName>
+    <RootNamespace>Challenge1</RootNamespace>
+    <AssemblyName>Challenge#1</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">

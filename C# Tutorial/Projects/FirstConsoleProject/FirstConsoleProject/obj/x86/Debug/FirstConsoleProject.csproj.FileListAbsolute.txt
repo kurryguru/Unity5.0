@@ -1,4 +1,0 @@
-C:\Users\panth\Documents\GitHub\Unity5.0\C# Tutorial\Projects\FirstConsoleProject\FirstConsoleProject\bin\Debug\FirstConsoleProject.exe
-C:\Users\panth\Documents\GitHub\Unity5.0\C# Tutorial\Projects\FirstConsoleProject\FirstConsoleProject\bin\Debug\FirstConsoleProject.pdb
-C:\Users\panth\Documents\GitHub\Unity5.0\C# Tutorial\Projects\FirstConsoleProject\FirstConsoleProject\obj\x86\Debug\FirstConsoleProject.exe
-C:\Users\panth\Documents\GitHub\Unity5.0\C# Tutorial\Projects\FirstConsoleProject\FirstConsoleProject\obj\x86\Debug\FirstConsoleProject.pdb
