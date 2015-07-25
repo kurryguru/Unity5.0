@@ -1,8 +1,8 @@
-﻿<Properties StartupItem="SecondProject\SecondProject.csproj">
+﻿<Properties StartupItem="SecondProject/SecondProject.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="SecondProject\Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="SecondProject/Program.cs">
     <Files>
-      <File FileName="SecondProject\Program.cs" Line="16" Column="1" />
+      <File FileName="SecondProject/Program.cs" Line="4" Column="2" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
