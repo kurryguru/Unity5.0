@@ -6,10 +6,9 @@ namespace Challenge1
 	{
 		public static void Main (string[] args)
 		{
-			Console.WriteLine ("Age : 13");
-			Console.WriteLine ("Name : Aniket Pant");
+			Console.WriteLine ("My name is Aniket Pant and I am 13 years old. <Press any key to continue>");
 			Console.ReadKey ();
-			Console.WriteLine ("Red");
+			Console.WriteLine ("\nMy favorite color is Red");
 			Console.ReadKey ();
 		}
 	}
