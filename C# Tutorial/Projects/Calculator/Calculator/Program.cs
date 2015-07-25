@@ -14,6 +14,7 @@ namespace Calculator
 			Console.Write ("Type another number to be multiplied: ");
 			num02 = Convert.ToInt32 (Console.ReadLine ());
 			Console.WriteLine ("The result is: " + num01 * num02);
+			Console.ReadKey ();
 		}
 	}
 }
