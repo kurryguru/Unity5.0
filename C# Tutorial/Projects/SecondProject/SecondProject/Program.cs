@@ -7,9 +7,7 @@ namespace SecondProject
 		public static void Main (string[] args)
 		{
 			Console.WriteLine ("Hello World!");
-			Console.WriteLine ("I am a computer. I am here to do good things");
-			Console.WriteLine ("Aniket you will have to work hard to keep up");
-			Console.ReadKey ();
+			Console.WriteLine ("This is a good start! Very soon we will be developing some good applications some of which are going to be games");
 		}
 	}
 }

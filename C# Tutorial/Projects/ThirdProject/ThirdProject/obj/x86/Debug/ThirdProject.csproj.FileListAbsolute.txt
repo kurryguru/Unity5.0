@@ -1,0 +1,4 @@
+C:\Users\panth\Documents\Projects\ThirdProject\ThirdProject\bin\Debug\ThirdProject.exe
+C:\Users\panth\Documents\Projects\ThirdProject\ThirdProject\bin\Debug\ThirdProject.pdb
+C:\Users\panth\Documents\Projects\ThirdProject\ThirdProject\obj\x86\Debug\ThirdProject.exe
+C:\Users\panth\Documents\Projects\ThirdProject\ThirdProject\obj\x86\Debug\ThirdProject.pdb
