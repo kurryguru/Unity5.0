@@ -7,6 +7,7 @@ namespace Challenge2
 		public static void Main (string[] args)
 		{
 			Start:
+			double num01;
 			double num02;
 
 			Console.Write ("Type a number to be divided: ");
