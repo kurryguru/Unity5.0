@@ -1,10 +1,6 @@
 ﻿<Properties StartupItem="Challenge#3/Challenge#3.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Challenge#3/Program.cs">
-    <Files>
-      <File FileName="Challenge#3/Program.cs" Line="13" Column="40" />
-    </Files>
-  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workbench />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>

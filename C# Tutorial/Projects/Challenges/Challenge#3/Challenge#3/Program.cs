@@ -18,9 +18,7 @@ namespace Challenge3
 				Console.WriteLine ("Your only a few numbers below the answer. Keep trying.");
 			} else if (answer > 25) {
 				Console.WriteLine ("You are a couple numbers above the acutal answer, try again.");
-			} else {
-				Console.WriteLine ("Please enter a valid integer answer. Thanks.");
-			}	
+			}
 		}
 	}
 }
