@@ -23,6 +23,7 @@ namespace FirstConsoleProject
 			} else {
 
 				int respondIndex = numberGenerator.Next (1, 4);
+				int incorrectAnswer = (num01 * num02) - answer;
 
 				switch (respondIndex) {
 				case 1:
