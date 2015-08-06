@@ -12,8 +12,8 @@ namespace FirstConsoleProject
 		{
 			Random numberGenerator = new Random ();
 
-			int num01 = numberGenerator.Next();
-			int num02 = 4;
+			int num01 = numberGenerator.Next(1,12);
+			int num02 = numberGenerator.Next(1,12);
 			Console.WriteLine ("What is " + num01 + " times " + num02 + "?");
 			int answer = Convert.ToInt32 (Console.ReadLine ());
 			if (answer == num01 * num02) {
@@ -22,7 +22,19 @@ namespace FirstConsoleProject
 
 			} else {
 
-				Console.WriteLine ("Are you even trying?");
+				int respondIndex = numberGenerator.Next (1, 4);
+
+				switch (respondIndex) {
+				case 1:
+					Console.WriteLine ("Are you even trying?");
+					break;
+				case 2:
+					Console.WriteLine ("The answer was incorrect.");
+					break;
+				case 3:
+					Console.WriteLine ("You can do better than that.");
+					break;
+				}
 
 			}
 			Console.ReadKey();
