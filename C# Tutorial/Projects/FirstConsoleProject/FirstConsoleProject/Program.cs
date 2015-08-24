@@ -4,14 +4,10 @@ namespace FirstConsoleProject
 {
 	class MainClass
 	{
-		public static void Main (string[] args)
+		public static void Main (string[] args) // this is a method called "Main." It is called when the program starts.
 		{
-<<<<<<< HEAD
-			Console.WriteLine ("Hello World!");
-=======
-			Console.WriteLine ("Hello Himanshu and Aniket!");
-			Console.WriteLine ("This is a great start!");
->>>>>>> pr/4
+			Console.WriteLine ("Hello, I'm a computer, I'm send from the future.\nThis is a new line.");
+			Console.ReadKey ();
 		}
 	}
 }

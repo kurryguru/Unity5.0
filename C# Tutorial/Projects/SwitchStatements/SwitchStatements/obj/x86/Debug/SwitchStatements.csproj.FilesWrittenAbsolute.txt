@@ -1,0 +1,5 @@
+/Users/devgithub/Documents/Development/Unity5.0/C# Tutorial/Projects/SwitchStatements/SwitchStatements/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/devgithub/Documents/Development/Unity5.0/C# Tutorial/Projects/SwitchStatements/SwitchStatements/bin/Debug/SwitchStatements.exe.mdb
+/Users/devgithub/Documents/Development/Unity5.0/C# Tutorial/Projects/SwitchStatements/SwitchStatements/bin/Debug/SwitchStatements.exe
+/Users/devgithub/Documents/Development/Unity5.0/C# Tutorial/Projects/SwitchStatements/SwitchStatements/obj/x86/Debug/SwitchStatements.exe
+/Users/devgithub/Documents/Development/Unity5.0/C# Tutorial/Projects/SwitchStatements/SwitchStatements/obj/x86/Debug/SwitchStatements.exe.mdb

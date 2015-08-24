@@ -3,11 +3,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
-<<<<<<< HEAD
-    <ProjectGuid>{64B77600-FD3F-4B9D-A37F-D112179FE5A6}</ProjectGuid>
-=======
-    <ProjectGuid>{05619225-5C05-48BF-B9AA-DD9A7E446AAE}</ProjectGuid>
->>>>>>> pr/4
+    <ProjectGuid>{B7F0479D-6406-4CE0-A045-FDC411E7E91B}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>FirstConsoleProject</RootNamespace>
     <AssemblyName>FirstConsoleProject</AssemblyName>
